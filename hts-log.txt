@@ -1,0 +1,1116 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Mar 2024 10:30:23 at https://www.amtm.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+https://www.amtm.org/
+(winhttrack -qwC2%Ps0u0%h%B%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.amtm.org/ -O1 "C:\My Web Sites\www.amtm.org" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain senshttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+	such as username/password authentication for websites mirroredhttps://www.amtm.org/
+https://www.amtm.org/
+	do not share these files/folders if you want these information to remahttps://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:31:07	Warning: 	Incorrect length (186530!=485416 expected) for https://www.https://www.amtm.org/lugins/js_cohttps://www.amtm.org/composer.min.css?ver=6.6.0
+https://www.amtm.org/https://www.amtm.org/
+10:31:09	Warning: 	Retry after error -4 (No data (connection closed)) ahttps://www.amtm.org/tm.org/comments/feed/ (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:31:26	Warning: 	Incorrect length (1209!=51517 expected) for https://https://www.amtm.org/nt/uploads/2018/07/cropped-AMTM-lhttps://www.amtm.org/png
+https://www.amtm.org/https://www.amtm.org/
+10:34:03	Warning: 	Incorrect length (125729!=2353147 expected) for https://wwwhttps://www.amtm.org/uploads/2023/09/Dossier-de-Presse-AMhttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:34:04	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtmhttps://www.amtm.org/ns/js_composer/assets/css/js_composer.min.css?ver=6.6.0 (frhttps://www.amtm.org/rg/)
+https://www.amtm.org/
+10:34:17	Warning: 	Retry after error -4 (Interrupted transfer) athttps://www.amtm.org/m.org/wp-json/ (from https://www.amtm.org/)
+https://www.amtm.org/
+10:34:18	Warning: 	Retry after error -4 (No data (connehttps://www.amtm.org/k https://www.amtm.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.amtm.org%2F&format=xml (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:34:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2018/07/cropped-AMTM-logo-quadri-1-192x192.png (from https:https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:34:40	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/blog/ (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:34:55	Warning: 	Retry after error -2 (Receive Time Out) at lhttps://www.amtm.org/org/developpement/ (from https://www.amtm.org/)
+https://www.amtm.org/
+10:35:31	Warning: 	Retry after error -4 (Interrupted transfer) at https://www.amtm.org/.org/sengager/parrainages/ (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:35:42	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/sengager/adherer/ (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:35:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/a-propos/nos-realisations/ (from https://www.amtm.org/)https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:36:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/les-sites/ (from https://www.amtm.org/)https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:36:09	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/a-propos/revue-toit-du-monde/ (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:36:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2023/09/Dossier-de-Presse-AMTM-2023.pdf (from https://www.amtm.org/)
+
+10:36:13	Warning: 	Retry after error -5 (https://www.amtm.org/:func(0):DH lib) at link https://www.amtm.org/wp-content/uploads/2020/02/Home-1-février-2020-1.jpg (from https://www.amtm.org/)
+https://www.amtm.org/https://www.amtm.org/
+10:36:48	Warning: 	File seems complete (shttps://www.amtm.org/was a cache read error (4294967295): https://www.amtm.org/wp-json/
+https://www.amtm.org/https://www.amtm.org/
+10:36:49	Warning: 	Incorrect length (2274https://www.amtm.org/or https://www.amtm.org/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.6.0
+https://www.amtm.org/https://www.amtm.org/
+10:36:59	Warning: 	File not parsed, lookshttps://www.amtm.org//www.amtm.org/wp-content/themes/engage/css/engage-icons/fonts/EngageIcons.woff2
+https://www.amtm.org/https://www.amtm.org/
+10:37:03	Warning: 	File not parsed, looks like binary: https://www.https://www.amtm.org/hemes/engage/chttps://www.amtm.org//fontawesome-webfont.woff2?v=4.7.0
+https://www.amtm.org/https://www.amtm.org/
+10:37:12	Error: 	"Not Found" (404) at link https://www.amtm.org/wp-https://www.amtm.org//css/plugins/owl.video.play.png (from https://www.amtm.org/wp-content/themes/engage/css/plugins/owl.caroushttps://www.amtm.org/
+https://www.amtm.org/
+10:37:13	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/pluhttps://www.amtm.org/ts/css/js_composer.min.css?ver=6.6.0 (from https://www.amtm.org/)
+https://www.amtm.org/
+10:37:26	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/blog/ (from https://www.amtm.org/)
+https://www.amtm.org/
+10:37:40	Warning: 	Moved Permanently fohttps://www.amtm.org/g/?p=3248https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:37:40	Warning: 	File has moved from https://www.amtm.org/?p=https://www.amtm.org/mtm.org/medical/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:39:50	Warning: 	Incorrect length (5552https://www.amtm.org/ https://www.amtm.org/wp-content/uploads/2019/04/PGIF4868-600x400.jpg
+https://www.amtm.org/https://www.amtm.org/
+10:39:51	Warning: 	Incorrect length (451840!=2973728 expected) forhttps://www.amtm.org//wp-content/uploads/2019/07/Header-Parrainage.jpg
+https://www.amtm.org/
+10:40:01	Warning: 	Incorrect length (95326!=6546580 expected) for hthttps://www.amtm.org/-content/uploads/2018/07/J-155.jpg
+https://www.amtm.org/https://www.amtm.org/
+10:40:01	Warning: 	Retry after error 502 (Bad Gateway) at link htthttps://www.amtm.org/content/themes/engage/js/engage.appear.js?ver=6.4.3 (from https://www.amtm.org/medical/)
+https://www.amtm.org/
+10:40:22	Warning: 	Moved Permanently for https://www.amtm.org/?p=https://www.amtm.org/
+https://www.amtm.org/
+10:40:22	Warning: 	File has moved from https://www.amtm.org/?p=3253https://www.amtm.org/org/parrainages/
+https://www.amtm.org/
+10:40:27	Warning: 	Retry after error -4 (Interrupted transfer) athttps://www.amtm.org/m.org/wp-content/uploads/2019/07/Header-Parrainage.jpg (from https://www.amtm.org/parrainages/)
+https://www.amtm.org/
+10:40:36	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/04/PGIF4868-600x400.jpg (from https://www.amtm.org/parrainages/)
+https://www.amtm.org/https://www.amtm.org/
+10:40:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2018/07/J-155.jpg (from https://www.amtm.org/parrhttps://www.amtm.org/
+https://www.amtm.org/
+10:41:12	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-json/wp/v2/pages/3722 (from https://www.amtm.org/sengager/faire-un-don/don/)
+https://www.amtm.org/https://www.amtm.org/
+10:41:13	Warning: 	Moved Permanently for https://www.amtm.org/?p=3722https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/
+10:41:13	Warning: 	File has moved from https://www.amtm.org/?p=3722 to https://www.amtm.org/sengager/faire-un-don/don/https://www.amtm.org/
+https://www.amtm.org/
+10:41:15	Warning: 	Moved Permanently for https://www.paypal.com/en_GB/ihttps://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/
+10:41:15	Warning: 	Warning moved treated for https://www.paypal.com/en_https://www.amtm.org/eal one is https://www.paypalobjects.com/en_GB/i/scr/pixel.gif)https://www.amtm.org/
+https://www.amtm.org/
+10:41:22	Warning: 	Moved Permanently for https://www.amtm.org/index.phphttps://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/
+10:41:22	Warning: 	File has moved from https://www.amtm.org/index.php/shttps://www.amtm.org/ttps://www.amtm.org/sengager/adherer/https://www.amtm.org/
+https://www.amtm.org/
+10:41:31	Warning: 	Moved Permanently for https://www.amtm.org/index.phphttps://www.amtm.org/n/https://www.amtm.org/
+https://www.amtm.org/
+10:41:31	Warning: 	File has moved from https://www.amtm.org/index.php/shttps://www.amtm.org/ to https://www.amtm.org/sengager/faire-un-don/https://www.amtm.org/
+https://www.amtm.org/
+10:41:48	Warning: 	Moved Permanently for https://www.amtm.org/?p=3255https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:41:48	Warning: 	File has moved from https://www.amtm.org/?p=3255 to https://www.amtm.org/sengager/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:45:52	Warning: 	Moved Permanently for https://www.amtm.org/?p=3273https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:45:52	Warning: 	File has moved from https://www.amtm.org/?p=3273 to https://www.amtm.org/sengager/faire-un-don/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:48:53	Warning: 	Retry after error -2 (Receive Time Out) at link httphttps://www.amtm.org/277 (from https://www.amtm.org/sengager/devenir-benevole/)https://www.amtm.org/
+https://www.amtm.org/
+10:48:54	Warning: 	Retry after error -2https://www.amtm.org/t link httphttps://www.amtm.org/son/oembed/1.0/embed?url=https%3A%2F%2Fwww.amtm.org%2Fsengager%2Fdevenir-benevole%2F (from https://www.amtm.org/sengager/devenir-benevole/)
+https://www.amtm.org/https://www.amtm.org/
+10:48:56	Warning: 	Retry after error -2 (https://www.amtm.org/link https://www.amtm.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.amtm.org%2Fsengager%2Fdevenir-benevole%2F&format=xml (from https://www.amtm.org/sengager/devenir-benevole/)
+https://www.amtm.org/https://www.amtm.org/
+10:49:28	Warning: 	Moved Permanently for hthttps://www.amtm.org/dex.php/liste-des-fonctions-disponibles/https://www.amtm.org/
+https://www.amtm.org/
+10:49:28	Warning: 	File has moved from https://www.amtm.org/index.phttps://www.amtm.org/s-disponibles/ to https://www.amtm.org/liste-des-fonctions-disponibles/
+https://www.amtm.org/
+10:49:36	Warning: 	Moved Permanently for https://www.amtm.org/?p=3https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:49:36	Warning: 	File has moved from https://www.amtm.org/?p=3279 to https:/https://www.amtm.org/r/partenariats-https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:49:48	Warning: 	Moved Permanently for https://www.amtm.org/?p=3281
+https://www.amtm.org/https://www.amtm.org/
+10:49:48	Warning: 	File has moved from hthttps://www.amtm.org/=3281 to https://www.amtm.org/a-propos/lassociation/
+https://www.amtm.org/https://www.amtm.org/
+10:49:51	Warning: 	Retry after error 50https://www.amtm.org/at link https://www.amtm.org/a-propos/nos-realisations/ (from https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:49:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://https://www.amtm.org/nt/plugins/engage-core//theme-panel/extensions/social_profihttps://www.amtm.org/ss/field_social_profiles_frontend.css?ver=1710754407 (from https://www.amtm.org/a-propos/ils-nous-aident/)
+https://www.amtm.org/https://www.amtm.org/
+10:49:54	Warning: 	Retry after error 504 https://www.amtm.org/ link https://www.amtm.org/wp-json/wp/v2/pages/4019 (from https://www.amtm.org/a-propos/ils-nous-aident/)
+https://www.amtm.org/https://www.amtm.org/
+10:49:56	Warning: 	Moved Permanently for https://www.amtm.org/?p=4019https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:49:56	Warning: 	File has moved from https://www.amtm.org/?p=4019 to https:/https://www.amtm.org/s/ils-nous-aident/https://www.amtm.org/
+https://www.amtm.org/
+10:50:49	Warning: 	Incorrect length (328455!=830334 expected) for https://www.amtm.org/wp-content/uploads/2019/06/Rapports-dactivités.jpg
+https://www.amtm.org/
+10:50:49	Warning: 	Incorrect length (10https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2023/06/AMTM_RapportMoral2022-AG062023.pdf
+https://www.amtm.org/
+10:50:51	Warning: 	Incorrect length (1167784!=1484588 expected) for htthttps://www.amtm.org/content/uploads/2019/07/Header-ils-nous-aident.jpghttps://www.amtm.org/
+https://www.amtm.org/
+10:50:51	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/07/Header-ils-nous-aident.jpg (from https://www.amtm.org/a-propos/ils-nous-aident/)
+https://www.amtm.org/
+10:50:55	Warning: 	Incorrect length (22https://www.amtm.org/) for httpshttps://www.amtm.org/ntent/uploads/2022/06/AMTM_RapportMoral2021-AG062022.pdf
+https://www.amtm.org/
+10:50:56	Warning: 	Incorrect length (59https://www.amtm.org/) for httpshttps://www.amtm.org/ntent/uploads/2023/06/AMTM-RCA-31.12.2022.pdf
+https://www.amtm.org/
+10:50:56	Warning: 	Incorrect length (47538!=138117 expected) for htthttps://www.amtm.org/content/uploads/2022/06/PV-AG-2022.pdf
+https://www.amtm.org/
+10:52:04	Warning: 	Incorrect length (657304!=1445796 exhttps://www.amtm.org/ww.amtm.org/wp-content/uploads/2021/06/AMTM_RapportMoral2020-AG062021.pdf
+https://www.amtm.org/
+10:52:05	Warning: 	Incorrect length (940248!=1317287 exhttps://www.amtm.org/ww.amtm.org/wp-content/uploads/2022/06/AMTM-RCA-cac-31.12.2021.pdf
+https://www.amtm.org/
+10:52:14	Warning: 	Incorrect length (1894https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2021/07/RAPPORT-CAC-AMTM-RCA-31.12.2020.pdf
+https://www.amtm.org/https://www.amtm.org/
+10:52:14	Warning: 	Incorrect length (90978!=755011 expected) for https:https://www.amtm.org/tent/uploads/2021/06/AMTM_RapportFinancier-2020-AG062021.pdfhttps://www.amtm.org/
+https://www.amtm.org/
+10:52:14	Warning: 	Moved Permanently for https://www.amtm.org/?p=3853https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/
+10:52:14	Warning: 	File has moved from https://www.amtm.org/?p=3853 to https://www.amtm.org/a-propos/rapports-dactivites/https://www.amtm.org/
+https://www.amtm.org/
+10:52:47	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/06/Rapports-dactivihttps://www.amtm.org//www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+10:52:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2023/06/AMTM_Rapporhttps://www.amtm.org/df (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+10:53:16	Warning: 	Incorrect length (2389360!=7487774 expected) for https://www.amtm.org/wp-content/uploads/2023/06/CR-mission-2023-04-NEPAL-Parrains-WEB.pdf
+https://www.amtm.org/
+10:53:17	Warning: 	Incorrect length (8608https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2024/02/CR-mission-2023-11-NEPAL-1.pdf
+https://www.amtm.org/https://www.amtm.org/
+10:53:17	Warning: 	Retry after error -4 (Interrupted transfer) at lihttps://www.amtm.org/rg/wp-content/uploads/2023/06/AMTM-RCA-31.12.2022.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:53:25	Warning: 	Retry after error -4 (Interrupted transfer) at lihttps://www.amtm.org/rg/wp-content/uploads/2022/06/PV-AG-2022.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:53:29	Warning: 	Incorrect length (156137!=5310131 expected) for https://www.amtm.org/wp-content/uploads/2019/07/AMTM-compte-rendu-mission_Inde-Avril-2019.pdf
+https://www.amtm.org/https://www.amtm.org/
+10:53:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2022/06/AMTM_RapportMoral2021-AG06https://www.amtm.org///www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+10:53:30	Warning: 	Incorrect length (67https://www.amtm.org/) for httpshttps://www.amtm.org/ntent/uploads/2019/06/AMTM-compte-rendu-mission-Népal-Mars-2019.pdf
+https://www.amtm.org/
+10:53:31	Warning: 	Retry after error -4 (Interrupted transfer) at lihttps://www.amtm.org/rg/wp-content/uploads/2022/06/AMTM-RCA-cac-31.12.2021.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+10:53:32	Warning: 	Incorrect length (2314https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/10/AMTM-compte-rendu-mission-Spiti-2019.pdf
+https://www.amtm.org/https://www.amtm.org/
+10:53:32	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2021/06/AMTM_RapportMoral2020-AG062021.pdf (from https://www.amtmhttps://www.amtm.org/s-dactivites/)
+https://www.amtm.org/
+10:54:15	Warning: 	Incorrect length (1169737!=2272085 expected) for htthttps://www.amtm.org/content/uploads/2020/06/CR-Mission-2020-Rewalsarhttps://www.amtm.org/
+https://www.amtm.org/
+10:54:15	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2021/06/AMTM_RapportFinancier-2020-AG062021.pdf (https://www.amtm.org/.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+10:54:15	Warning: 	Incorrect length (661489!=2610725 expected) for httphttps://www.amtm.org/ontent/uploads/2019/01/AMTM_-_compte_rendu_mission_SPITI_https://www.amtm.org/
+https://www.amtm.org/
+10:54:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2021/07/RAPPORT-CAC-AMTM-RCA-31.12.2020.pdf (fromhttps://www.amtm.org//a-propos/rapports-dactivites/)
+https://www.amtm.org/
+10:54:16	Warning: 	Incorrect length (703608!=3671827 expected) for https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Inde_avril_2018.pdf
+https://www.amtm.org/https://www.amtm.org/
+10:54:16	Warning: 	Retry after error -4 (Interrupted transfer) at https://www.amtm.org/.org/wp-content/uploads/2024/02/CR-mission-2023-11-NEPAL-1.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:54:29	Warning: 	Incorrect length (218321!=3601618 expected) for httphttps://www.amtm.org/ontent/uploads/2019/01/AMTM_-_compte_rendu_mission_Nepal_avril_2018.phttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+10:54:29	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2023/06/CR-mission-2023-04-NEPAL-Parrains-WEB.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:54:29	Warning: 	Incorrect length (210464!=3133087 expected) for https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Spiti_2017.pdf
+https://www.amtm.org/https://www.amtm.org/
+10:54:29	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2020/06/CR-Mission-2020-Rewalsar-Spiti-Parrains.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:57:43	Warning: 	Retry after error -4 (No data (connection closed)https://www.amtm.org/.amtm.org/wp-content/uploads/2020/01/AMTM-compte-rendu-mission-Nepal-octobre-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:57:54	Warning: 	Retry after error -4 (Interrupted transfer) athttps://www.amtm.org/m.org/wp-content/uploads/2019/10/AMTM-compte-rendu-mission-Spiti-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:59:02	Warning: 	Retry after error -4 (Interrupted transfer) at https://www.amtm.org/.org/wp-content/uploads/2019/07/AMTM-compte-rendu-mission_Inde-Avril-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+10:59:34	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2019/06/AMTM-compte-rendu-mission-Népal-Mars-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+11:00:14	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_SPITI_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+11:01:20	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Inde_avril_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:01:27	Warning: 	Retry after error -4 (Interrupted transfer) at https://www.amtm.org/.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Nepal_avril_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:02:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Spiti_2017.phttps://www.amtm.org/amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+11:15:01	Warning: 	Moved Permanently for https://www.amtm.org/?p=3903https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/
+11:15:01	Warning: 	File has moved from https://www.amtm.org/?p=3903 to https://www.amtm.org/a-propos/newsletter-amtm/https://www.amtm.org/
+https://www.amtm.org/
+11:15:10	Warning: 	Retry after error 504 (Gateway Time-out) at link htthttps://www.amtm.org/json/oembed/1.0/embed?url=https%3A%2F%2Fwww.https://www.amtm.org/Fnewsletter-amtm%2F&format=xml (from https://www.amtm.org/a-propos/newsletter-amtm/)
+https://www.amtm.org/
+11:15:28	Warning: 	Moved Permanently for https://www.amtm.org/?p=7493https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:15:28	Warning: 	File has moved from https://www.amtm.org/?p=7493https://www.amtm.org/org/amtm/course-des-heros-2024/
+https://www.amtm.org/https://www.amtm.org/
+11:16:27	Error: 	"Not Found" (404) at link https://www.amtm.org/amthttps://www.amtm.org/23/mgille@amtm.org (from https://www.amtm.org/amtm/course-des-heros-2024/)
+https://www.amtm.org/https://www.amtm.org/
+11:19:20	Warning: 	Incorrect length (30161!=1039269 expected) for hhttps://www.amtm.org/p-content/uploads/2024/01/Cotisation-2024.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:19:31	Warning: 	Incorrect length (150345!=1135057 expected) for https://www.amtm.org/wp-content/uploads/2019/05/Mandat-Sepa-CLUB-AMTM.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:20:49	Warning: 	Incorrect length (132970!=940190 expected) for hhttps://www.amtm.org/p-content/uploads/2023/11/FlyerA4_appel_fonds_vetements-web.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:21:44	Warning: 	Incorrect length (85185!=5880721 expected) for httpshttps://www.amtm.org/ntent/uploads/2023/10/Flyer-Fete-de-Noel-webhttps://www.amtm.org/
+https://www.amtm.org/
+11:22:28	Warning: 	Retry after error -4 (No data (connection closed)) ahttps://www.amtm.org/tm.org/2018/11/ (from https://www.amtm.org/ahttps://www.amtm.org/2024/)
+https://www.amtm.org/
+11:22:34	Warning: 	Retry after error -4 (No data (connection closed)) ahttps://www.amtm.org/tm.org/2018/09/ (from https://www.amtm.org/ahttps://www.amtm.org/2024/)
+https://www.amtm.org/
+11:22:36	Warning: 	Retry after error -4 (No data (connection closed)) ahttps://www.amtm.org/tm.org/2018/06/ (from https://www.amtm.org/ahttps://www.amtm.org/2024/)
+https://www.amtm.org/https://www.amtm.org/
+11:22:54	Warning: 	Moved Permanently for https://www.amtm.org/?p=7480https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:22:54	Warning: 	File has moved from https://www.amtm.org/?p=7480 to https://www.amtm.org/amtm/cotisation-amtm-2024/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:22:54	Warning: 	Moved Permanently for https://www.amtm.org/sengager/https://www.amtm.org/s://secure.payzen.eu/vads-site/DONS_EN_LIGNEhttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:22:54	Warning: 	Redirected link is identical because of 'URL Hack' ohttps://www.amtm.org/tm.org/sengager/faire-un-don/don/https://sechttps://www.amtm.org/te/DONS_EN_LIGNE_AMTM and https://www.amtm.org/sengager/faire-un-don/don/https:/secure.payzen.eu/vads-site/DONS_EN_LIGNE_AMTM
+https://www.amtm.org/https://www.amtm.org/
+11:22:54	Warning: 	File has moved from https://www.amtm.org/sengager/fahttps://www.amtm.org///secure.payzen.eu/vads-site/DONS_EN_LIGNE_Ahttps://www.amtm.org/tm.org/sengager/faire-un-don/don/https:/secure.payzen.eu/vads-site/DONS_EN_LIGNE_AMTM
+https://www.amtm.org/https://www.amtm.org/
+11:22:56	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2024/0https://www.amtm.org/ (from https://www.amtm.org/amtm/cotisation-amtm-2024/)
+https://www.amtm.org/https://www.amtm.org/
+11:23:06	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2019/05/Mandat-Sepa-CLUB-AMTM.pdf (from https://www.amtm.org/amtm/chttps://www.amtm.org/
+
+11:23:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-json/wp/v2/posts/7362 (from https://www.amtm.org/appel-aux-dons/appel-aux-dons-des-vetements-pour-tous/)
+
+11:23:14	Warning: 	Moved Permanently for https://www.amtm.org/?p=7362https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:23:14	Warning: 	File has moved from https://www.amtm.org/?p=7362 to https:/https://www.amtm.org/ux-dons/appel-aux-dons-des-vetements-pour-tous/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:23:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2023/11/FlyerA4_appel_https://www.amtm.org/df (from https://www.amtm.org/appel-aux-dons/appel-aux-dons-des-vetements-pour-tous/)
+https://www.amtm.org/https://www.amtm.org/
+11:23:39	Warning: 	Retry after error -4 (No data (connection closedhttps://www.amtm.org/w.amtm.org/?p=7336 (from https://whttps://www.amtm.org/me-au-nepal-3-novembre-2023/)
+https://www.amtm.org/https://www.amtm.org/
+11:23:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-json/oembed/1.0/embed?url=https://www.amtm.org/m.org%2Famtm%2Fseisme-au-nepal-3-novembre-2023%2F (from https://www.amtm.org/amtm/seisme-au-nepal-3-novembre-2023/)
+https://www.amtm.org/https://www.amtm.org/
+11:23:51	Warning: 	Incorrect length (159038!=2248889 expected) for httphttps://www.amtm.org/ontent/uploads/2019/07/Header-Développement-sohttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:23:54	Warning: 	Incorrect length (131528!=699488 expected) for hhttps://www.amtm.org/p-content/uploads/2019/02/distribuhttps://www.amtm.org/x681-700x600.png
+https://www.amtm.org/https://www.amtm.org/
+11:23:55	Warning: 	Moved Permanently for https://www.amtm.org/?p=73https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:23:55	Warning: 	File has moved from https://www.amtm.org/?p=7310 https://www.amtm.org/rg/amtm/fete-dehttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:23:59	Warning: 	Incorrect length (502220!=2973728 expected) https://www.amtm.org/org/wp-content/uploads/2019/07/Header-Parrainage.jpghttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:24:01	Warning: 	Retry after error -4 (Interrupted transfer) at lihttps://www.amtm.org/rg/wp-content/uploads/2023/10/Flyer-Fete-de-Noel-web.pdf (from https://www.amtm.orhttps://www.amtm.org/023/)
+https://www.amtm.org/
+11:24:03	Warning: 	Moved Permanently for https://www.amtm.org/?p=730https://www.amtm.org/
+https://www.amtm.org/
+11:24:03	Warning: 	File has moved from https://www.amtm.org/?p=https://www.amtm.org/mtm.org/amtm/mission-amtm-nepal-automne/https://www.amtm.org/
+https://www.amtm.org/
+11:24:17	Warning: 	Moved Permanently fohttps://www.amtm.org/g/?p=3913https://www.amtm.org/
+https://www.amtm.org/
+11:24:17	Warning: 	File has moved from https://www.amtm.org/?p=3913 to https://www.amtm.org/infos-legales/
+https://www.amtm.org/
+11:24:38	Warning: 	Moved Permanently for https://www.amtm.org/?p=447https://www.amtm.org/
+https://www.amtm.org/
+11:24:38	Warning: 	File has moved from https://www.amtm.org/?p=4476 https://www.amtm.org/rg/espace-membres/
+https://www.amtm.org/
+11:25:41	Warning: 	Incorrect length (1090097!=2758959 expected) forhttps://www.amtm.org//wp-content/uploads/2019/05/Dossier_Parrainage_AMTM.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:25:41	Warning: 	Incorrect length (1866392!=6057716 expected) for htthttps://www.amtm.org/content/uploads/2018/07/D-182.jpghttps://www.amtm.org/
+https://www.amtm.org/
+11:25:53	Warning: 	Incorrect length (122834!=773702 expected) for httpshttps://www.amtm.org/ntent/uploads/2022/02/Cotisation-2022.pdfhttps://www.amtm.org/
+https://www.amtm.org/
+11:26:22	Warning: 	File not parsed, lookshttps://www.amtm.org//www.amtm.org/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.woff2
+https://www.amtm.org/https://www.amtm.org/
+11:26:28	Warning: 	File not parsed, looks like binary: https://www.amtmhttps://www.amtm.org/ns/js_composer/assets/lib/bower/font-awesome/webfontshttps://www.amtm.org/
+https://www.amtm.org/
+11:26:34	Warning: 	File not parsed, lookshttps://www.amtm.org//www.amtm.org/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.woff2
+https://www.amtm.org/https://www.amtm.org/
+11:27:13	Warning: 	Incorrect length (200720!=1625533 expected) for hhttps://www.amtm.org/p-content/uploads/2023/06/AMTM_RapportMoral2022-AG062023.pdf
+https://www.amtm.org/
+11:27:13	Warning: 	Moved Permanently fohttps://www.amtm.org/g/?p=3250https://www.amtm.org/
+https://www.amtm.org/
+11:27:13	Warning: 	File has moved from https://www.amtm.org/?p=3250 to https://www.amtm.org/developpement/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:27:21	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2019/07/Header-Développement-solaire.jpg (from https://www.amtm.org/developpement/)
+https://www.amtm.org/
+11:27:40	Warning: 	Incorrect length (539377!=1204137 expected) for hthttps://www.amtm.org/-content/uploads/2023/06/AMTM-RCA-31.12.2022.pdfhttps://www.amtm.org/
+https://www.amtm.org/
+11:27:40	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2019/02/distribution-kit-hygiene-1024x681-700x60https://www.amtm.org/ww.amtm.org/developpement/)
+https://www.amtm.org/
+11:27:40	Warning: 	Incorrect length (283099!=1550498 expected) for hhttps://www.amtm.org/p-content/uploads/2022/06/AMTM_RapportMoral2021-AG062022.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:27:40	Warning: 	Retry after error -4 (Interrupted transfer) at https://www.amtm.org/.org/wp-content/uploads/2019/07/Header-Parrainage.jpg (from https://www.amtm.org/parrainages/)
+https://www.amtm.org/https://www.amtm.org/
+11:27:41	Warning: 	Incorrect length (3383510!=6546580 expected) forhttps://www.amtm.org//wp-content/uploads/2018/07/J-155.jpg
+https://www.amtm.org/https://www.amtm.org/
+11:27:41	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2018/07/J-155.jpg (from https://www.amtm.org/parrainages/)
+https://www.amtm.org/https://www.amtm.org/
+11:27:42	Warning: 	Incorrect length (912664!=4565541 expected) for https://whttps://www.amtm.org/t/uploads/2019/06/Sites-AMTM.jpghttps://www.amtm.org/
+https://www.amtm.org/
+11:27:42	Warning: 	Retry after error -4 (No data (connection closed))https://www.amtm.org/amtm.org/wp-json/wp/v2/pages/3722 (from https://www.amtm.org/sengager/faire-https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:27:48	Warning: 	Incorrect length (755464!=1445796 expected) for https://www.amtm.org/wp-content/uploads/2021/06/AMTM_RapportMoral2020-AG062021.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:27:49	Warning: 	Incorrect length (1076864!=1317287 expected) for https://www.amtm.org/wp-content/uploads/2022/06/AMTM-RCA-cac-31.12.2021.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:27:50	Warning: 	Incorrect length (283256!=2417312 expected) for httphttps://www.amtm.org/ontent/uploads/2021/07/RAPPORT-CAC-AMTM-RCA-https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:27:50	Warning: 	Moved Permanently for https://www.amtm.org/?p=3271https://www.amtm.org/https://www.amtm.org/
+https://www.amtm.org/
+11:27:50	Warning: 	File has moved from https://www.amtm.org/?p=3271 to https://www.amtm.org/sengager/parrainages/https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:28:24	Warning: 	Incorrect length (2855136!=7487774 expected) for htthttps://www.amtm.org/content/uploads/2023/06/CR-mission-2023-04-Nhttps://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:28:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2018/07/D-182.jpg (from hhttps://www.amtm.org/engager/parrainages/)
+https://www.amtm.org/https://www.amtm.org/
+11:28:24	Warning: 	Incorrect length (1342856!=4931566 expected) for https://wwhttps://www.amtm.org//uploads/2024/02/CR-mission-2023-11-NEPAL-1.https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:28:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/05/Dossier_Parrainaghttps://www.amtm.org/s://www.amtm.org/sengager/parrainages/)
+https://www.amtm.org/https://www.amtm.org/
+11:28:34	Warning: 	Incorrect length (2399https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/06/AMTM-compte-rendu-mission-Népal-Mars-2019.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:29:30	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/?p=3275 (from https://www.amtm.org/sengager/adherer/)
+https://www.amtm.org/https://www.amtm.org/
+11:30:00	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2022/02/Cotisation-2022.pdf (from https://www.amtm.org/sengager/adherer/)
+https://www.amtm.org/https://www.amtm.org/
+11:30:36	Warning: 	Moved Permanently for https://www.amtm.org/?p=3277
+https://www.amtm.org/https://www.amtm.org/
+11:30:36	Warning: 	File has moved from https://www.amtm.org/?p=3277 https://www.amtm.org/rg/sengager/devenir-benevole/
+https://www.amtm.org/
+11:31:08	Warning: 	Incorrect length (13https://www.amtm.org/ed) for htthttps://www.amtm.org/content/uploads/2019/01/AMTM_-_compte_rendu_mission_Nepal_avril_2018.pdf
+https://www.amtm.org/
+11:31:09	Warning: 	Incorrect length (21https://www.amtm.org/ed) for htthttps://www.amtm.org/content/uploads/2019/01/AMTM_-_compte_rendu_mission_Inde_avril_2018.pdf
+https://www.amtm.org/
+11:31:10	Warning: 	Incorrect length (28https://www.amtm.org/ed) for htthttps://www.amtm.org/content/uploads/2020/01/AMTM-compte-rendu-mission-Nepal-octobre-2019.pdf
+https://www.amtm.org/
+11:32:24	Warning: 	Moved Permanently fohttps://www.amtm.org/g/?p=4266https://www.amtm.org/
+https://www.amtm.org/
+11:32:24	Warning: 	File has moved from https://www.amtm.org/?p=4266 to https://www.amhttps://www.amtm.org/
+https://www.amtm.org/
+11:32:46	Warning: 	Retry after error -4 (No data (connection closedhttps://www.amtm.org/w.amtm.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.amtm.org%2Fles-sites%2F (from https://www.amtm.org/les-sites/)
+https://www.amtm.org/
+11:32:55	Warning: 	Incorrect length (5336https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2020/07/TdM-49.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:32:55	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2019/06/Sites-AMTM.jpg (from https://www.amtm.org/les-sites/)
+https://www.amtm.org/https://www.amtm.org/
+11:32:56	Warning: 	Incorrect length (1138976!=14119941 expected) for hthttps://www.amtm.org/-content/uploads/2022/11/TdM-52-special-30-ans.pdfhttps://www.amtm.org/
+https://www.amtm.org/
+11:32:56	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2023/06/AMTM_RapportMoral2022-AG062023.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+11:32:56	Warning: 	Incorrect length (2196928!=3133087 expected) forhttps://www.amtm.org//wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Spiti_2017.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:32:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2023/06/AMTM-RCA-31.12.2https://www.amtm.org//www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+11:32:57	Warning: 	Incorrect length (22https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2019/10/Revue-Toit-du-Monde-N-48-2019.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:32:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2022/06/AMTM_RapportMoral2021-https://www.amtm.org/tps://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:33:01	Warning: 	Incorrect length (2560https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-47.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:33:01	Warning: 	Incorrect length (104009!=4538757 expected) for httphttps://www.amtm.org/ontent/uploads/2019/07/TdM-46.pdfhttps://www.amtm.org/
+https://www.amtm.org/
+11:33:01	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2022/06/AMTM-RCA-cac-31.12.2021.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:33:02	Warning: 	Incorrect length (7215https://www.amtm.org/for https://www.amtm.org/wp-content/uploads/2019/07/TdM-44.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:33:02	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2021/06/AMTM_RapportMoral2020-AG062021.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:33:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2021/07/RAPPORT-CAC-AMTM-RCA-31.12.2020.pdf (from hhttps://www.amtm.org/-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:33:27	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2024/02/CR-mission-2023-11-NEPAL-1.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:34:06	Warning: 	Incorrect length (5340https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-40.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:34:06	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2023/06/CR-mission-2023-04-NEPAL-Parrains-WEB.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:34:06	Warning: 	Incorrect length (9901https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-42.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:34:07	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2020/01/AMTM-compte-rendu-mission-Nepal-octobre-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:34:07	Warning: 	Incorrect length (7584https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-39.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:34:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2019/06/AMTM-comptehttps://www.amtm.org/Mars-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/
+11:34:08	Warning: 	Incorrect length (12https://www.amtm.org/ed) for htthttps://www.amtm.org/content/uploads/2019/07/TdM-43.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:34:08	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Inde_avril_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:34:15	Warning: 	Incorrect length (9821https://www.amtm.org/or https://www.amtm.org/wp-content/uploads/2019/07/TdM-36.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:34:15	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Nepal_avril_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:34:15	Warning: 	Incorrect length (8663https://www.amtm.org/for https://www.amtm.org/wp-content/uploads/2019/07/TdM-35.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:34:15	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Spiti_2017.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+https://www.amtm.org/https://www.amtm.org/
+11:34:16	Warning: 	Incorrect length (1865https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-38.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:35:40	Warning: 	Moved Permanently for https://www.amtm.org/?p=4422
+https://www.amtm.org/https://www.amtm.org/
+11:35:40	Warning: 	File has moved from hthttps://www.amtm.org/=4422 to https://www.amtm.org/a-propos/revue-toit-du-monde/
+https://www.amtm.org/https://www.amtm.org/
+11:35:54	Warning: 	Incorrect length (1974https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-30.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:35:55	Warning: 	Incorrect length (3866https://www.amtm.org/ for https://www.amtm.org/wp-content/uploads/2019/07/TdM-31.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:35:55	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2022/11/TdM-52-special-30-ans.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:36:01	Warning: 	Incorrect length (9242https://www.amtm.org/for https://www.amtm.org/wp-content/uploads/2019/07/TdM-29.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:36:01	Warning: 	Retry after error -4 (Inhttps://www.amtm.org/t link https://www.amtm.org/wp-content/uploads/2020/0https://www.amtm.org/tps://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:36:11	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/10/Revue-Toit-du-Monde-N-48-2019.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:36:39	Warning: 	Incorrect length (57https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2019/07/TdM-28.pdf
+https://www.amtm.org/
+11:36:39	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-47.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:36:40	Warning: 	Incorrect length (52https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2019/07/TdM-27.pdf
+https://www.amtm.org/
+11:36:40	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-46.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:36:40	Warning: 	Incorrect length (39https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-26.pdf
+https://www.amtm.org/
+11:36:40	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-44.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:36:48	Warning: 	Incorrect length (10https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-25.pdf
+https://www.amtm.org/
+11:36:48	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-43.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:36:56	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-42.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:37:41	Warning: 	Incorrect length (91https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-23.pdf
+https://www.amtm.org/
+11:37:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https:/https://www.amtm.org/ent/uploads/2019/07/TdM-40.pdf (frhttps://www.amtm.org/rg/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:37:42	Warning: 	Incorrect length (74https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-22.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:37:43	Warning: 	Retry after error -4 (Interrupted transfer) athttps://www.amtm.org/m.org/wp-content/uploads/2019/07/TdM-39.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:37:43	Warning: 	Incorrect length (80https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-21.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:37:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-38.pdf (from https://www.amtm.org/a-propos/revue-tohttps://www.amtm.org/
+https://www.amtm.org/
+11:37:51	Warning: 	Incorrect length (19https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-18.pdf
+https://www.amtm.org/
+11:37:51	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-36.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:37:53	Warning: 	Incorrect length (132969!=2299027 expected) forhttps://www.amtm.org//wp-content/uploads/2020/02/TdM-19.pdf
+https://www.amtm.org/
+11:37:53	Warning: 	Retry after error -4 (Interrupted transfer) at lihttps://www.amtm.org/rg/wp-content/uploads/2019/07/TdM-35.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:38:01	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2019/07/TdM-31.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:38:37	Warning: 	Incorrect length (673160!=2675880 expected) for hhttps://www.amtm.org/p-content/uploads/2020/02/TdM-16.pdf
+https://www.amtm.org/
+11:38:37	Warning: 	Retry after error -4 (Interrupted transfer) at lhttps://www.amtm.org/org/wp-content/uploads/2019/07/TdM-30.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:38:37	Warning: 	Incorrect length (796968!=2615319 expected) for hhttps://www.amtm.org/p-content/uploads/2020/02/TdM-17.pdf
+https://www.amtm.org/
+11:38:38	Warning: 	Retry after error -4 (Interrupted transfer) at lihttps://www.amtm.org/rg/wp-content/uploads/2019/07/TdM-29.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:38:48	Warning: 	Incorrect length (13https://www.amtm.org/d) for httphttps://www.amtm.org/ontent/uploads/2020/02/TdM-13.pdf
+https://www.amtm.org/https://www.amtm.org/
+11:38:48	Warning: 	Retry after error -4 (https://www.amtm.org/ at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-28.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:39:20	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2019/07/TdM-27.pdf (frhttps://www.amtm.org/rg/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:39:22	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2020/02/TdM-26.pdf (from https:/https://www.amtm.org/s/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:40:51	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2020/02/TdM-25.pdf (from https://www.ahttps://www.amtm.org/e-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:41:19	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2020/02/TdM-23.pdf (frohttps://www.amtm.org/g/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:41:22	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2020/02/TdM-22.pdf (frohttps://www.amtm.org/g/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:42:16	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2020/02/TdM-21.pdf (frohttps://www.amtm.org/g/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/https://www.amtm.org/
+11:42:57	Warning: 	Retry after error -4 (Interrupted transfer) at linhttps://www.amtm.org/g/wp-content/uploads/2020/02/TdM-19.pdf (frohttps://www.amtm.org/g/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:43:17	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-18.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:44:16	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-17.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:44:53	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-16.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:45:09	Warning: 	Retry after error -4https://www.amtm.org/r) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-13.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+https://www.amtm.org/
+11:48:23	Warning: 	Retry after error -2https://www.amtm.org/t link https://www.amtm.org/authttps://www.amtm.org/from https://www.amtm.org/author/admin5414/)
+https://www.amtm.org/
+11:48:32	Warning: 	Retry after error -4https://www.amtm.org/ closed)) ahttps://www.amtm.org/tm.org/wp-content/plugins/engage-core//theme-panel/extensions/social_profiles/social_profiles/css/field_social_profiles_frontend.css?ver=1710756799 (from https://www.amtm.org/author/admin5414/)
+https://www.amtm.org/https://www.amtm.org/
+11:48:52	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/wp-content/uploads/2023/10/Invitation-a-la-fete-de-Noel-2023-900x470.jpg (from https://www.amtm.org/author/admin5414/)
+https://www.amtm.org/https://www.amtm.org/
+11:50:11	Warning: 	Moved Permanently for https://www.amtm.org/-content/uploads/2017/07/277355_l_srgb_s_gl.jpg
+https://www.amtm.org/https://www.amtm.org/
+11:50:11	Warning: 	Redirected link is idehttps://www.amtm.org/L Hack' option: engage.veented.com/wp-content/uploads/2017/07/277355_l_srgb_s_gl.jpg and www.engage.veented.com/wp-content/uploads/2017/07/277355_l_srgb_s_gl.jpg
+https://www.amtm.org/https://www.amtm.org/
+11:50:11	Warning: 	Warning moved treated https://www.amtm.org/m/wp-content/uploads/2017/07/277355_l_srgb_s_gl.jpg (real one is www.engage.veented.com/wp-content/uploads/2017/07/277355_l_srgb_s_gl.jpg)
+https://www.amtm.org/https://www.amtm.org/
+11:50:12	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/category/amtm/feed/ (from https://www.amtm.org/category/amtm/)
+https://www.amtm.org/https://www.amtm.org/
+11:50:12	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/wp-json/wp/v2/categories/1 (from https://www.amtm.org/category/amtm/)
+https://www.amtm.org/https://www.amtm.org/
+11:52:00	Warning: 	Retry after error -4 (https://www.amtm.org/losed)) at link https://www.amtm.org/amtm/rencontre-avec-une-serie-dinterviews-avec-les-benevoles-damtm/ (from https://www.amtm.org/category/evenements/)
+https://www.amtm.org/https://www.amtm.org/
+11:52:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/category/evenements/page/2/ (from https://www.amtm.org/category/evenements/)https://www.amtm.org/
+https://www.amtm.org/
+11:52:02	Warning: 	Retry after error -4https://www.amtm.org/ closed)) ahttps://www.amtm.org/tm.org/category/evenements/page/3/ (from https://www.amtm.org/category/evenements/)
+https://www.amtm.org/
+11:52:06	Warning: 	Retry after error -5https://www.amtm.org/0):func(0):https://www.amtm.org/://www.amtm.org/category/appel-aux-dons/feed/ (from https://www.amtm.org/category/appel-aux-dons/)
+https://www.amtm.org/
+11:53:01	Warning: 	Retry after error -2 (https://www.amtm.org/link https://www.amtm.org/wp-json/wp/v2/categories/97 (from https://www.amtm.org/category/appel-aux-dons/)
+https://www.amtm.org/https://www.amtm.org/
+11:53:04	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/amtm/appel-de-fonds-numerique-et-informatique/ (from https://www.amtm.org/category/aphttps://www.amtm.org/
+https://www.amtm.org/
+11:53:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/missions/mission-inde/ (from https://www.amtm.org/category/missions/)https://www.amtm.org/
+https://www.amtm.org/https://www.amtm.org/
+11:55:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/amtm/6410/ (from https://www.amtm.org/2022/02/)https://www.amtm.org/
+
+11:55:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/amtm/atelier-yoga-solidaire-sur-zoom-2/ (from https://www.amtm.org/2022/01/)
+
+12:02:43	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/amtm/5204/ (from https://www.amtm.org/2020/04/)
+
+12:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/amtm/diner-de-charite-amtm/ (from https://www.amtm.org/2019/10/)
+
+12:02:56	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/wp-content/uploads/2019/07/Banner-Rewalsar-Spiti-2019-900x342.jpg (from https://www.amtm.org/2019/07/)
+
+12:02:57	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/amtm/course-des-heros-2019/ (from https://www.amtm.org/2019/06/)
+
+12:02:58	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/amtm/adherez-ou-renouvelez-votre-cotisation-annuelle-40-e-minimum/ (from https://www.amtm.org/2019/04/)
+
+12:03:01	Warning: 	Retry after error 504 (Gateway Time-out) at link https://www.amtm.org/2018/11/ (from https://www.amtm.org/amtm/course-des-heros-2024/)
+
+12:03:13	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.amtm.org/evenements/cotisation-2018-adherez-re-adherez/ (from https://www.amtm.org/2018/04/)
+
+12:03:14	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.amtm.org/wp-content/uploads/2018/11/ag-amtm-900x470.jpg (from https://www.amtm.org/2018/04/)
+
+12:03:52	Warning: 	Retry after error 504 (Gateway Time-out) at link https://www.amtm.org/wp-content/plugins/engage-core//theme-panel/extensions/social_profiles/social_profiles/css/field_social_profiles_frontend.css?ver=1710757149 (from https://www.amtm.org/2018/01/)
+
+12:05:08	Warning: 	Retry after error 504 (Gateway Time-out) at link https://www.amtm.org/evenements/campagne-sweet-dream-appel-aux-dons-pour-le-sommeil-des-enfants/ (from https://www.amtm.org/2018/01/)
+
+12:05:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.amtm.org/wp-json/wp/v2/pages/3722
+
+12:05:57	Warning: 	Incorrect length (2602976!=6057716 expected) for https://www.amtm.org/wp-content/uploads/2018/07/D-182.jpg
+
+12:05:59	Warning: 	Incorrect length (5070246!=6546580 expected) for https://www.amtm.org/wp-content/uploads/2018/07/J-155.jpg
+
+12:06:06	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.amtm.org/wp-content/uploads/2023/11/FlyerA4_appel_fonds_vetements-web.pdf (from https://www.amtm.org/appel-aux-dons/appel-aux-dons-des-vetements-pour-tous/)
+
+12:06:07	Warning: 	Moved Permanently for https://www.amtm.org/?p=7336
+
+12:06:07	Warning: 	File has moved from https://www.amtm.org/?p=7336 to https://www.amtm.org/amtm/seisme-au-nepal-3-novembre-2023/
+
+12:06:11	Warning: 	Moved Permanently for https://www.amtm.org/?p=7251
+
+12:06:11	Warning: 	File has moved from https://www.amtm.org/?p=7251 to https://www.amtm.org/evenements/trophee-de-golf-amtm-2023/
+
+12:06:18	Warning: 	Incorrect length (407788!=773702 expected) for https://www.amtm.org/wp-content/uploads/2022/02/Cotisation-2022.pdf
+
+12:06:46	Warning: 	Incorrect length (1225280!=4565541 expected) for https://www.amtm.org/wp-content/uploads/2019/06/Sites-AMTM.jpg
+
+12:06:46	Warning: 	Incorrect length (811993!=1204137 expected) for https://www.amtm.org/wp-content/uploads/2023/06/AMTM-RCA-31.12.2022.pdf
+
+12:06:47	Warning: 	Incorrect length (1839697!=2758959 expected) for https://www.amtm.org/wp-content/uploads/2019/05/Dossier_Parrainage_AMTM.pdf
+
+12:06:54	Warning: 	Incorrect length (434955!=1550498 expected) for https://www.amtm.org/wp-content/uploads/2022/06/AMTM_RapportMoral2021-AG062022.pdf
+
+12:06:56	Warning: 	Incorrect length (897184!=1445796 expected) for https://www.amtm.org/wp-content/uploads/2021/06/AMTM_RapportMoral2020-AG062021.pdf
+
+12:06:57	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2018/07/J-155.jpg (from https://www.amtm.org/parrainages/)
+
+12:06:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2018/07/D-182.jpg (from https://www.amtm.org/sengager/parrainages/)
+
+12:07:48	Warning: 	Incorrect length (1194752!=2417312 expected) for https://www.amtm.org/wp-content/uploads/2021/07/RAPPORT-CAC-AMTM-RCA-31.12.2020.pdf
+
+12:07:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/05/Dossier_Parrainage_AMTM.pdf (from https://www.amtm.org/sengager/parrainages/)
+
+12:07:49	Warning: 	Incorrect length (2230464!=4931566 expected) for https://www.amtm.org/wp-content/uploads/2024/02/CR-mission-2023-11-NEPAL-1.pdf
+
+12:07:49	Warning: 	Moved Permanently for https://www.amtm.org/?p=3275
+
+12:07:49	Warning: 	File has moved from https://www.amtm.org/?p=3275 to https://www.amtm.org/sengager/adherer/
+
+12:08:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2022/02/Cotisation-2022.pdf (from https://www.amtm.org/sengager/adherer/)
+
+12:08:55	Warning: 	Incorrect length (2725143!=3133087 expected) for https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Spiti_2017.pdf
+
+12:09:12	Warning: 	Moved Permanently for https://www.amtm.org/?p=4056
+
+12:09:12	Warning: 	File has moved from https://www.amtm.org/?p=4056 to https://www.amtm.org/liste-des-fonctions-disponibles/
+
+12:10:49	Warning: 	Incorrect length (1351722!=4538757 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-46.pdf
+
+12:10:49	Warning: 	Moved Permanently for https://www.amtm.org/?p=4014
+
+12:10:49	Warning: 	File has moved from https://www.amtm.org/?p=4014 to https://www.amtm.org/a-propos/nos-realisations/
+
+12:11:00	Warning: 	Incorrect length (1409111!=2169346 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-43.pdf
+
+12:11:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/06/Sites-AMTM.jpg (from https://www.amtm.org/les-sites/)
+
+12:11:23	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2023/06/AMTM-RCA-31.12.2022.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:11:42	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2022/06/AMTM_RapportMoral2021-AG062022.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:11:57	Warning: 	Incorrect length (399905!=1407703 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-38.pdf
+
+12:11:57	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2021/06/AMTM_RapportMoral2020-AG062021.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:12:00	Warning: 	Incorrect length (1328633!=4550258 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-44.pdf
+
+12:12:00	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2021/07/RAPPORT-CAC-AMTM-RCA-31.12.2020.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:12:01	Warning: 	Incorrect length (1278752!=1378585 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-39.pdf
+
+12:12:01	Warning: 	Incorrect length (1773681!=1872332 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-42.pdf
+
+12:12:01	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2024/02/CR-mission-2023-11-NEPAL-1.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:12:06	Warning: 	Incorrect length (242074!=986514 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-36.pdf
+
+12:12:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2023/06/CR-mission-2023-04-NEPAL-Parrains-WEB.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:12:08	Warning: 	Incorrect length (294143!=1587201 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-30.pdf
+
+12:12:08	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/06/AMTM-compte-rendu-mission-Népal-Mars-2019.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:12:09	Warning: 	Incorrect length (480402!=2409999 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-31.pdf
+
+12:12:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Inde_avril_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:12:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Nepal_avril_2018.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:13:11	Warning: 	Incorrect length (1398640!=1706428 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-28.pdf
+
+12:13:11	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/01/AMTM_-_compte_rendu_mission_Spiti_2017.pdf (from https://www.amtm.org/a-propos/rapports-dactivites/)
+
+12:13:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-content/uploads/2022/11/TdM-52-special-30-ans.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:13:38	Warning: 	Incorrect length (679649!=2325888 expected) for https://www.amtm.org/wp-content/uploads/2020/02/TdM-25.pdf
+
+12:13:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-content/uploads/2020/07/TdM-49.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:13:38	Warning: 	Incorrect length (1019039!=2391839 expected) for https://www.amtm.org/wp-content/uploads/2020/02/TdM-23.pdf
+
+12:13:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-46.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:13:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-44.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:13:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-43.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:14:02	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-42.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:14:07	Warning: 	Incorrect length (1203233!=2299027 expected) for https://www.amtm.org/wp-content/uploads/2020/02/TdM-19.pdf
+
+12:14:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-39.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:14:47	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-38.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-36.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-31.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-30.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-28.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-26.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:28	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-25.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:29	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-23.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:15:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-19.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:17:30	Warning: 	Moved Permanently for https://www.amtm.org/?p=7032
+
+12:17:30	Warning: 	File has moved from https://www.amtm.org/?p=7032 to https://www.amtm.org/appel-aux-dons/appel-aux-dons-construction-a-o-sal-choling/
+
+12:19:13	Warning: 	Moved Permanently for https://www.amtm.org/?p=6907
+
+12:19:13	Warning: 	File has moved from https://www.amtm.org/?p=6907 to https://www.amtm.org/amtm/course-des-heros-2023/
+
+12:19:20	Warning: 	Moved Permanently for https://www.amtm.org/?p=7098
+
+12:19:20	Warning: 	File has moved from https://www.amtm.org/?p=7098 to https://www.amtm.org/evenements/amtm-participe-au-prix-psychologies-2023/
+
+12:19:29	Warning: 	Moved Permanently for https://www.amtm.org/author/admin5414/page/1/
+
+12:19:29	Warning: 	File has moved from https://www.amtm.org/author/admin5414/page/1/ to https://www.amtm.org/author/admin5414/
+
+12:20:54	Warning: 	Incorrect length (1245016!=2162678 expected) for https://www.amtm.org/wp-content/uploads/2022/09/Programme-30-ans-AMTM.pdf
+
+12:20:54	Warning: 	Moved Permanently for https://www.amtm.org/?p=7026
+
+12:20:54	Warning: 	File has moved from https://www.amtm.org/?p=7026 to https://www.amtm.org/amtm/assemblee-generale-damtm-dimanche-4-juin-2023/
+
+12:21:10	Warning: 	Moved Permanently for https://www.amtm.org/?p=6991
+
+12:21:10	Warning: 	File has moved from https://www.amtm.org/?p=6991 to https://www.amtm.org/amtm/une-nouvelle-plateforme-innovante/
+
+12:21:21	Warning: 	Moved Permanently for https://www.amtm.org/?p=6988
+
+12:21:21	Warning: 	File has moved from https://www.amtm.org/?p=6988 to https://www.amtm.org/amtm/mission-amtm-nepal-printemps/
+
+12:21:38	Warning: 	Moved Permanently for https://www.amtm.org/?p=6946
+
+12:21:38	Warning: 	File has moved from https://www.amtm.org/?p=6946 to https://www.amtm.org/amtm/cotisation-amtm-2023/
+
+12:21:44	Warning: 	Moved Permanently for https://www.amtm.org/category/amtm/page/1/
+
+12:21:44	Warning: 	File has moved from https://www.amtm.org/category/amtm/page/1/ to https://www.amtm.org/category/amtm/
+
+12:21:45	Warning: 	Incorrect length (17135!=1113203 expected) for https://www.amtm.org/wp-content/uploads/2021/06/Operation-Kit-Covid-2021.gif
+
+12:21:46	Warning: 	Incorrect length (508200!=9785689 expected) for https://www.amtm.org/wp-content/uploads/2022/05/0Appel-Sante.gif
+
+12:21:46	Warning: 	Incorrect length (504544!=914099 expected) for https://www.amtm.org/wp-content/uploads/2022/05/Appel-Sante.pdf
+
+12:21:48	Warning: 	Moved Permanently for https://www.amtm.org/?p=6894
+
+12:21:48	Warning: 	File has moved from https://www.amtm.org/?p=6894 to https://www.amtm.org/amtm/vente-caritative-amtm/
+
+12:21:51	Warning: 	Moved Permanently for https://www.amtm.org/?p=6693
+
+12:21:51	Warning: 	File has moved from https://www.amtm.org/?p=6693 to https://www.amtm.org/amtm/fete-des-30-ans-damtm/
+
+12:21:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2022/09/Programme-30-ans-AMTM.pdf (from https://www.amtm.org/amtm/fete-des-30-ans-damtm/)
+
+12:21:56	Warning: 	Moved Permanently for https://www.amtm.org/?p=6666
+
+12:21:56	Warning: 	File has moved from https://www.amtm.org/?p=6666 to https://www.amtm.org/amtm/trophee-de-golf-amtm/
+
+12:22:01	Warning: 	Incorrect length (6994!=758527 expected) for https://www.amtm.org/wp-content/uploads/2019/11/Appel-Nouvelle-Ecole-à-Katmandou.pdf
+
+12:22:02	Warning: 	Incorrect length (186545!=1432224 expected) for https://www.amtm.org/wp-content/uploads/2021/04/AMTM-Operation-Dentiste-2021.pdf
+
+12:22:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/category/evenements/page/3/ (from https://www.amtm.org/category/evenements/)
+
+12:22:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/category/appel-aux-dons/feed/ (from https://www.amtm.org/category/appel-aux-dons/)
+
+12:22:10	Warning: 	Moved Permanently for https://www.amtm.org/?p=6541
+
+12:22:10	Warning: 	File has moved from https://www.amtm.org/?p=6541 to https://www.amtm.org/appel-aux-dons/appel-de-fonds-la-sante-dabord/
+
+12:22:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2022/05/0Appel-Sante.gif (from https://www.amtm.org/appel-aux-dons/appel-de-fonds-la-sante-dabord/)
+
+12:22:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2022/05/Appel-Sante.pdf (from https://www.amtm.org/appel-aux-dons/appel-de-fonds-la-sante-dabord/)
+
+12:22:21	Error: 	"Not Found" (404) at link https://www.amtm.org/wp-content/uploads/2022/11/Camembert-dons-Sante.jpg (from https://www.amtm.org/appel-aux-dons/appel-de-fonds-la-sante-dabord/)
+
+12:22:23	Warning: 	Moved Permanently for https://www.amtm.org/?p=6010
+
+12:22:23	Warning: 	File has moved from https://www.amtm.org/?p=6010 to https://www.amtm.org/amtm/operation-10-e-pour-un-kit-covid19-2/
+
+12:22:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2021/06/Operation-Kit-Covid-2021.gif (from https://www.amtm.org/amtm/operation-10-e-pour-un-kit-covid19-2/)
+
+12:22:28	Warning: 	Moved Permanently for https://www.amtm.org/?p=5892
+
+12:22:28	Warning: 	File has moved from https://www.amtm.org/?p=5892 to https://www.amtm.org/appel-aux-dons/5892/
+
+12:22:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2021/04/AMTM-Operation-Dentiste-2021.pdf (from https://www.amtm.org/appel-aux-dons/5892/)
+
+12:22:32	Warning: 	Moved Permanently for https://www.amtm.org/?p=4868
+
+12:22:32	Warning: 	File has moved from https://www.amtm.org/?p=4868 to https://www.amtm.org/amtm/appel-de-fonds/
+
+12:22:36	Warning: 	Moved Permanently for https://www.amtm.org/index.php/sengager/faire-un-don/don/
+
+12:22:36	Warning: 	File has moved from https://www.amtm.org/index.php/sengager/faire-un-don/don/ to https://www.amtm.org/sengager/faire-un-don/don/
+
+12:22:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/11/Appel-Nouvelle-Ecole-à-Katmandou.pdf (from https://www.amtm.org/amtm/appel-de-fonds/)
+
+12:22:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-content/uploads/2019/11/Snowland.jpg (from https://www.amtm.org/amtm/appel-de-fonds/)
+
+12:22:57	Warning: 	Moved Permanently for https://www.amtm.org/?p=3718
+
+12:22:57	Warning: 	File has moved from https://www.amtm.org/?p=3718 to https://www.amtm.org/publications/appel-de-fonds-amtm/
+
+12:24:43	Warning: 	Moved Permanently for https://www.amtm.org/?p=5329
+
+12:24:43	Warning: 	File has moved from https://www.amtm.org/?p=5329 to https://www.amtm.org/appel-aux-dons/appel-parrainage-karang-hostel/
+
+12:24:58	Warning: 	Moved Permanently for https://www.amtm.org/?p=6779
+
+12:24:58	Warning: 	File has moved from https://www.amtm.org/?p=6779 to https://www.amtm.org/missions/missions-amtm-au-nepal-et-en-inde/
+
+12:25:05	Warning: 	Moved Permanently for https://www.amtm.org/?p=6518
+
+12:25:05	Warning: 	File has moved from https://www.amtm.org/?p=6518 to https://www.amtm.org/missions/mission-nepal-printemps-2022/
+
+12:25:17	Warning: 	Moved Permanently for https://www.amtm.org/?p=5000
+
+12:25:17	Warning: 	File has moved from https://www.amtm.org/?p=5000 to https://www.amtm.org/missions/mission-inde-2/
+
+12:25:31	Warning: 	Moved Permanently for https://www.amtm.org/?p=4806
+
+12:25:31	Warning: 	File has moved from https://www.amtm.org/?p=4806 to https://www.amtm.org/missions/mission-nepal-automne-2/
+
+12:25:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/tag/mission-humanitaire/ (from https://www.amtm.org/missions/mission-nepal-automne-2/)
+
+12:26:13	Warning: 	Moved Permanently for https://www.amtm.org/?p=3779
+
+12:26:13	Warning: 	File has moved from https://www.amtm.org/?p=3779 to https://www.amtm.org/missions/mission-nepal-automne/
+
+12:26:20	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.amtm.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.amtm.org%2Fmissions%2Fmission-nepal-automne%2F (from https://www.amtm.org/missions/mission-nepal-automne/)
+
+12:26:58	Warning: 	Moved Permanently for https://www.amtm.org/?p=3746
+
+12:26:58	Warning: 	File has moved from https://www.amtm.org/?p=3746 to https://www.amtm.org/missions/mission-nepal-printemps-du-12-au-26-avril-2018/
+
+12:27:07	Warning: 	Moved Permanently for https://www.amtm.org/?p=3770
+
+12:27:07	Warning: 	File has moved from https://www.amtm.org/?p=3770 to https://www.amtm.org/publications/campagne-ma-trousse-scolaire-un-kit-scolaire-par-enfant/
+
+12:27:18	Warning: 	Moved Permanently for https://www.amtm.org/?p=3727
+
+12:27:18	Warning: 	File has moved from https://www.amtm.org/?p=3727 to https://www.amtm.org/publications/calendrier-amtm-2018/
+
+12:27:36	Warning: 	Moved Permanently for https://www.amtm.org/?p=6446
+
+12:27:36	Warning: 	File has moved from https://www.amtm.org/?p=6446 to https://www.amtm.org/amtm/une-ambulance-pour-142-enfants-et-toute-une-region-de-linde/
+
+12:27:42	Warning: 	Moved Permanently for https://www.amtm.org/?p=6425
+
+12:27:42	Warning: 	File has moved from https://www.amtm.org/?p=6425 to https://www.amtm.org/amtm/cotisation-amtm-2022/
+
+12:27:53	Warning: 	Moved Permanently for https://www.amtm.org/?p=6400
+
+12:27:53	Warning: 	File has moved from https://www.amtm.org/?p=6400 to https://www.amtm.org/amtm/6400/
+
+12:27:58	Warning: 	Moved Permanently for https://www.amtm.org/?p=6336
+
+12:27:58	Warning: 	File has moved from https://www.amtm.org/?p=6336 to https://www.amtm.org/amtm/mission-nepal-decembre-2021/
+
+12:28:01	Warning: 	Moved Permanently for https://www.amtm.org/?p=6283
+
+12:28:01	Warning: 	File has moved from https://www.amtm.org/?p=6283 to https://www.amtm.org/amtm/appel-de-fonds-noel-2021/
+
+12:28:15	Warning: 	Moved Permanently for https://www.amtm.org/?p=6264
+
+12:28:15	Warning: 	File has moved from https://www.amtm.org/?p=6264 to https://www.amtm.org/amtm/boutique-de-noel-solidaire/
+
+12:28:18	Warning: 	Moved Permanently for https://www.amtm.org/?p=6250
+
+12:28:18	Warning: 	File has moved from https://www.amtm.org/?p=6250 to https://www.amtm.org/amtm/trophee-de-golf-amtm-2021/
+
+12:28:21	Warning: 	Moved Permanently for https://www.amtm.org/?p=5786
+
+12:28:21	Warning: 	File has moved from https://www.amtm.org/?p=5786 to https://www.amtm.org/evenements/vente-gastronomique-de-paques-au-profit-damtm/
+
+12:28:27	Warning: 	Moved Permanently for https://www.amtm.org/?p=5777
+
+12:28:27	Warning: 	File has moved from https://www.amtm.org/?p=5777 to https://www.amtm.org/amtm/cotisation-annuelle-amtm/
+
+12:28:30	Error: 	"Not Found" (404) at link https://www.amtm.org/wp-content/uploads/2021/02/Cotisation-2021.pdf (from https://www.amtm.org/amtm/cotisation-annuelle-amtm/)
+
+12:28:34	Warning: 	Moved Permanently for https://www.amtm.org/?p=5741
+
+12:28:34	Warning: 	File has moved from https://www.amtm.org/?p=5741 to https://www.amtm.org/amtm/de-la-part-de-toute-lequipe-damtm-benevoles-et-salaries/
+
+12:28:39	Warning: 	Moved Permanently for https://www.amtm.org/?p=5710
+
+12:28:39	Warning: 	File has moved from https://www.amtm.org/?p=5710 to https://www.amtm.org/amtm/appel-fonds-de-solidarite-exceptionnel-2021/
+
+12:28:55	Warning: 	Moved Permanently for https://www.amtm.org/?p=5659
+
+12:28:55	Warning: 	File has moved from https://www.amtm.org/?p=5659 to https://www.amtm.org/amtm/atelier-yoga-solidaire-sur-zoom/
+
+12:28:57	Warning: 	Moved Permanently for https://www.amtm.org/?p=5644
+
+12:28:57	Warning: 	File has moved from https://www.amtm.org/?p=5644 to https://www.amtm.org/amtm/vente-gastronomique-noel-2020/
+
+12:29:02	Warning: 	Moved Permanently for https://www.amtm.org/?p=5456
+
+12:29:02	Warning: 	File has moved from https://www.amtm.org/?p=5456 to https://www.amtm.org/amtm/trophee-de-golf-amtm-2020/
+
+12:29:10	Warning: 	Moved Permanently for https://www.amtm.org/?p=5218
+
+12:29:10	Warning: 	File has moved from https://www.amtm.org/?p=5218 to https://www.amtm.org/amtm/operation-10-e-pour-un-kit-covid19/
+
+12:29:27	Warning: 	Moved Permanently for https://www.amtm.org/?p=5157
+
+12:29:27	Warning: 	File has moved from https://www.amtm.org/?p=5157 to https://www.amtm.org/amtm/coronavirus-et-mission-amtm/
+
+12:29:40	Warning: 	Moved Permanently for https://www.amtm.org/?p=4857
+
+12:29:40	Warning: 	File has moved from https://www.amtm.org/?p=4857 to https://www.amtm.org/amtm/fete-de-noel-amtm-rdv-a-la-madeleine/
+
+12:29:58	Warning: 	Moved Permanently for https://www.amtm.org/?p=4734
+
+12:29:58	Warning: 	File has moved from https://www.amtm.org/?p=4734 to https://www.amtm.org/amtm/atelier-yoga/
+
+12:30:15	Warning: 	Moved Permanently for https://www.amtm.org/?p=4725
+
+12:30:15	Warning: 	File has moved from https://www.amtm.org/?p=4725 to https://www.amtm.org/amtm/trophee-de-golf-amtm-2019/
+
+12:30:20	Warning: 	Moved Permanently for https://www.amtm.org/?p=4695
+
+12:30:20	Warning: 	File has moved from https://www.amtm.org/?p=4695 to https://www.amtm.org/amtm/mission-inde-rewalsar-spiti-ete-2019/
+
+12:30:56	Warning: 	Incorrect length (543208!=1222409 expected) for https://www.amtm.org/wp-content/uploads/2019/06/Appel_l_Eau_c_est_Precieux_2019.pdf
+
+12:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/amtm/course-des-heros-2019/ (from https://www.amtm.org/2019/06/)
+
+12:31:00	Warning: 	Moved Permanently for https://www.amtm.org/?p=4127
+
+12:31:00	Warning: 	File has moved from https://www.amtm.org/?p=4127 to https://www.amtm.org/evenements/appel-au-don-leau-cest-precieux/
+
+12:31:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2019/06/Appel_l_Eau_c_est_Precieux_2019.pdf (from https://www.amtm.org/evenements/appel-au-don-leau-cest-precieux/)
+
+12:31:05	Warning: 	Incorrect length (95328!=781323 expected) for https://www.amtm.org/wp-content/uploads/2018/11/fete-noel-2018-900x.png
+
+12:31:22	Warning: 	Moved Permanently for https://www.amtm.org/?p=3791
+
+12:31:22	Warning: 	File has moved from https://www.amtm.org/?p=3791 to https://www.amtm.org/evenements/fete-de-noel-amtm-retour-a-paris/
+
+12:31:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.amtm.org/wp-content/uploads/2018/11/fete-noel-2018-900x.png (from https://www.amtm.org/evenements/fete-de-noel-amtm-retour-a-paris/)
+
+12:31:26	Warning: 	Retry after error -5 (Unable to get server's address: H�te inconnu. ) at link test.amtm.org/wp-content/uploads/2018/11/affiche-fete-noel-amtm-2018.jpg (from https://www.amtm.org/evenements/fete-de-noel-amtm-retour-a-paris/)
+
+12:31:39	Warning: 	Moved Permanently for https://www.amtm.org/?p=3759
+
+12:31:39	Warning: 	File has moved from https://www.amtm.org/?p=3759 to https://www.amtm.org/evenements/assemblee-generale-damtm/
+
+12:31:45	Warning: 	Incorrect length (2709827!=6057716 expected) for https://www.amtm.org/wp-content/uploads/2018/07/D-182.jpg
+
+12:31:45	Warning: 	Moved Permanently for https://www.amtm.org/index.php/2018/04/23/cotisation-2018-adherez-re-adherez/
+
+12:31:45	Warning: 	File has moved from https://www.amtm.org/index.php/2018/04/23/cotisation-2018-adherez-re-adherez/ to https://www.amtm.org/evenements/cotisation-2018-adherez-re-adherez/
+
+12:31:45	Warning: 	Incorrect length (566766!=773702 expected) for https://www.amtm.org/wp-content/uploads/2022/02/Cotisation-2022.pdf
+
+12:31:46	Warning: 	Incorrect length (357914!=940190 expected) for https://www.amtm.org/wp-content/uploads/2023/11/FlyerA4_appel_fonds_vetements-web.pdf
+
+12:31:46	Warning: 	Incorrect length (1947992!=2758959 expected) for https://www.amtm.org/wp-content/uploads/2019/05/Dossier_Parrainage_AMTM.pdf
+
+12:31:51	Warning: 	Incorrect length (1439744!=4538757 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-46.pdf
+
+12:31:52	Warning: 	Incorrect length (656384!=1104693 expected) for https://www.amtm.org/wp-content/uploads/2020/07/TdM-49.pdf
+
+12:31:53	Warning: 	Incorrect length (1336475!=4565541 expected) for https://www.amtm.org/wp-content/uploads/2019/06/Sites-AMTM.jpg
+
+12:32:55	Warning: 	Incorrect length (1075816!=1407703 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-38.pdf
+
+12:32:55	Warning: 	Incorrect length (283764!=986514 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-36.pdf
+
+12:33:04	Warning: 	Incorrect length (396646!=1587201 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-30.pdf
+
+12:33:04	Warning: 	Incorrect length (569873!=2409999 expected) for https://www.amtm.org/wp-content/uploads/2019/07/TdM-31.pdf
+
+12:34:05	Warning: 	Incorrect length (1228135!=2380081 expected) for https://www.amtm.org/wp-content/uploads/2020/02/TdM-26.pdf
+
+12:34:05	Warning: 	Incorrect length (3613840!=14119941 expected) for https://www.amtm.org/wp-content/uploads/2022/11/TdM-52-special-30-ans.pdf
+
+12:34:16	Warning: 	Incorrect length (1151949!=2391839 expected) for https://www.amtm.org/wp-content/uploads/2020/02/TdM-23.pdf
+
+12:34:25	Warning: 	Moved Permanently for https://www.amtm.org/?p=3711
+
+12:34:25	Warning: 	File has moved from https://www.amtm.org/?p=3711 to https://www.amtm.org/evenements/fete-de-noel-amtm-2017/
+
+12:34:31	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2023/11/FlyerA4_appel_fonds_vetements-web.pdf (from https://www.amtm.org/appel-aux-dons/appel-aux-dons-des-vetements-pour-tous/)
+
+12:34:50	Warning: 	Moved Permanently for https://www.amtm.org/blog/page/1/
+
+12:34:50	Warning: 	File has moved from https://www.amtm.org/blog/page/1/ to https://www.amtm.org/blog/
+
+12:35:17	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2018/07/D-182.jpg (from https://www.amtm.org/sengager/parrainages/)
+
+12:35:19	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/05/Dossier_Parrainage_AMTM.pdf (from https://www.amtm.org/sengager/parrainages/)
+
+12:35:19	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2022/02/Cotisation-2022.pdf (from https://www.amtm.org/sengager/adherer/)
+
+12:35:20	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/06/Sites-AMTM.jpg (from https://www.amtm.org/les-sites/)
+
+12:35:22	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2022/11/TdM-52-special-30-ans.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:23	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2020/07/TdM-49.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:23	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-46.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:39	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-38.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:40	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-36.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:42	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-31.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:42	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2019/07/TdM-30.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-26.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:45	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.amtm.org/wp-content/uploads/2020/02/TdM-23.pdf (from https://www.amtm.org/a-propos/revue-toit-du-monde/)
+
+12:35:53	Warning: 	Moved Permanently for https://www.amtm.org/?p=3767
+
+12:35:53	Warning: 	File has moved from https://www.amtm.org/?p=3767 to https://www.amtm.org/evenements/6e-trophee-de-golf-amtm-les-23-et-27-septembre-2018/
+
+12:37:37	Warning: 	Moved Permanently for https://www.amtm.org/?p=3764
+
+12:37:37	Warning: 	File has moved from https://www.amtm.org/?p=3764 to https://www.amtm.org/evenements/raffle-meet-sebastien-in-prague-concert-il-divo-12-septembre/
+
+12:38:07	Warning: 	Moved Permanently for https://www.amtm.org/?p=3761
+
+12:38:07	Warning: 	File has moved from https://www.amtm.org/?p=3761 to https://www.amtm.org/evenements/course-des-heros-2018/
+
+12:38:38	Warning: 	Moved Permanently for https://www.amtm.org/?p=5849
+
+12:38:38	Warning: 	File has moved from https://www.amtm.org/?p=5849 to https://www.amtm.org/amtm/rencontre-avec-une-serie-dinterviews-avec-les-benevoles-damtm/
+
+12:38:55	Warning: 	Moved Permanently for https://www.amtm.org/category/evenements/page/1/
+
+12:38:55	Warning: 	File has moved from https://www.amtm.org/category/evenements/page/1/ to https://www.amtm.org/category/evenements/
+
+12:39:17	Warning: 	Moved Permanently for https://www.amtm.org/?p=6798
+
+12:39:17	Warning: 	File has moved from https://www.amtm.org/?p=6798 to https://www.amtm.org/amtm/appel-de-fonds-numerique-et-informatique/
+
+12:39:18	Error: 	"Not Found" (404) at link https://www.amtm.org/wp-content/uploads/2022/12/Camenbert-Appel-informatique-1.jpg (from https://www.amtm.org/amtm/appel-de-fonds-numerique-et-informatique/)
+
+12:41:37	Warning: 	Moved Permanently for https://www.amtm.org/?p=3784
+
+12:41:37	Warning: 	File has moved from https://www.amtm.org/?p=3784 to https://www.amtm.org/evenements/appel-au-don-pour-lemploi-des-jeunes-et-des-femmes/
+
+12:41:44	Warning: 	Moved Permanently for https://www.amtm.org/?p=3755
+
+12:41:44	Warning: 	File has moved from https://www.amtm.org/?p=3755 to https://www.amtm.org/missions/mission-inde/
+
+12:41:50	Warning: 	Moved Permanently for https://www.amtm.org/?p=6410
+
+12:41:50	Warning: 	File has moved from https://www.amtm.org/?p=6410 to https://www.amtm.org/amtm/6410/
+
+12:41:55	Warning: 	Moved Permanently for https://www.amtm.org/?p=6372
+
+12:41:55	Warning: 	File has moved from https://www.amtm.org/?p=6372 to https://www.amtm.org/amtm/atelier-yoga-solidaire-sur-zoom-2/
+
+12:41:58	Warning: 	Moved Permanently for https://www.amtm.org/?p=5204
+
+12:41:58	Warning: 	File has moved from https://www.amtm.org/?p=5204 to https://www.amtm.org/amtm/5204/
+
+12:42:04	Warning: 	Moved Permanently for https://www.amtm.org/?p=4742
+
+12:42:04	Warning: 	File has moved from https://www.amtm.org/?p=4742 to https://www.amtm.org/amtm/diner-de-charite-amtm/
+
+12:42:12	Warning: 	Moved Permanently for https://www.amtm.org/?p=4287
+
+12:42:12	Warning: 	File has moved from https://www.amtm.org/?p=4287 to https://www.amtm.org/amtm/adherez-ou-renouvelez-votre-cotisation-annuelle-40-e-minimum/
+
+12:42:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link test.amtm.org/wp-content/uploads/2018/11/affiche-fete-noel-amtm-2018.jpg (from https://www.amtm.org/evenements/fete-de-noel-amtm-retour-a-paris/)
+
+12:42:22	Warning: 	Moved Permanently for https://www.amtm.org/?p=3749
+
+12:42:22	Warning: 	File has moved from https://www.amtm.org/?p=3749 to https://www.amtm.org/evenements/cotisation-2018-adherez-re-adherez/
+
+12:42:28	Warning: 	Moved Permanently for https://www.amtm.org/?p=3736
+
+12:42:28	Warning: 	File has moved from https://www.amtm.org/?p=3736 to https://www.amtm.org/evenements/campagne-sweet-dream-appel-aux-dons-pour-le-sommeil-des-enfants/
+
+12:42:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link test.amtm.org/wp-content/uploads/2018/11/campagne-sweet-dream.jpg (from https://www.amtm.org/evenements/campagne-sweet-dream-appel-aux-dons-pour-le-sommeil-des-enfants/)
+
+12:42:46	Warning: 	Moved Permanently for https://www.amtm.org/?p=4279
+
+12:42:46	Warning: 	File has moved from https://www.amtm.org/?p=4279 to https://www.amtm.org/amtm/course-des-heros-2019/
+
+12:42:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link test.amtm.org/wp-content/uploads/2018/11/affiche-fete-noel-amtm-2018.jpg (from https://www.amtm.org/evenements/fete-de-noel-amtm-retour-a-paris/)
+
+12:42:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link test.amtm.org/wp-content/uploads/2018/11/campagne-sweet-dream.jpg (from https://www.amtm.org/evenements/campagne-sweet-dream-appel-aux-dons-pour-le-sommeil-des-enfants/)
+
+12:42:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-content/plugins/engage-core//theme-panel/extensions/social_profiles/social_profiles/css/field_social_profiles_frontend.css?ver=1710762127 (from https://www.amtm.org/tag/sommeil/)
+
+12:42:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.amtm.org/wp-json/wp/v2/tags/50 (from https://www.amtm.org/tag/sommeil/)
+
+12:42:47	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link test.amtm.org/wp-content/uploads/2018/11/campagne-sweet-dream.jpg (from https://www.amtm.org/evenements/campagne-sweet-dream-appel-aux-dons-pour-le-sommeil-des-enfants/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 12 minutes 24 seconds : 1609 links scanned, 1299 files written (314699726 bytes overall) [353299042 bytes received at 44473 bytes/sec], 1.0 requests per connection
+
+(32 errors, 515 warnings, 0 messages)
+
